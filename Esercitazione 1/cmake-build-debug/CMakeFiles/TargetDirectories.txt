@@ -1,0 +1,3 @@
+/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/CMakeFiles/lez22ottobre.dir

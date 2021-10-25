@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lez22ottobre"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lez22ottobre">
+				<Option output="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/lez22ottobre" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 lez22ottobre"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lez22ottobre/fast">
+				<Option output="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/lez22ottobre" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 lez22ottobre/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/esercizio_1.c">
+			<Option target="lez22ottobre"/>
+		</Unit>
+		<Unit filename="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/esercizio_1.h">
+			<Option target="lez22ottobre"/>
+		</Unit>
+		<Unit filename="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/esercizio_2.c">
+			<Option target="lez22ottobre"/>
+		</Unit>
+		<Unit filename="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/esercizio_2.h">
+			<Option target="lez22ottobre"/>
+		</Unit>
+		<Unit filename="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/esercizio_2_alt.c">
+			<Option target="lez22ottobre"/>
+		</Unit>
+		<Unit filename="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/esercizio_3.c">
+			<Option target="lez22ottobre"/>
+		</Unit>
+		<Unit filename="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/esercizio_3.h">
+			<Option target="lez22ottobre"/>
+		</Unit>
+		<Unit filename="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/esercizio_4.c">
+			<Option target="lez22ottobre"/>
+		</Unit>
+		<Unit filename="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/esercizio_4.h">
+			<Option target="lez22ottobre"/>
+		</Unit>
+		<Unit filename="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/main.c">
+			<Option target="lez22ottobre"/>
+		</Unit>
+		<Unit filename="/home/alessandro/Code/PAIS/anno21_22/esercitazioni/lez22ottobre/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
